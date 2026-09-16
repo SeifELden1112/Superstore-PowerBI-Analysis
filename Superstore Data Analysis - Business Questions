@@ -1,0 +1,33 @@
+=====================================================
+      Superstore Data Analysis - Business Questions
+=====================================================
+1. ما هي السنة والشهر الأكثر تحقيقاً للمبيعات، وكيف يبدو اتجاه المبيعات عبر الزمن؟ (Sales Trend over Time)
+2. ما هي الولاية الأكثر تحقيقاً للمبيعات، وما هي أكثر ولاية تحقيقاً للأرباح؟ (State by Sales vs. Profit)
+3. ما هي أكثر مدينة مبيعاً للمنتجات داخل الولاية صاحبة المركز الأول؟ (Top City in the Leading State)
+4. ما هو القسم الرئيسي (Category) والقسم الفرعي (Sub-Category) الأكثر مبيعاً والأكثر ربحية؟ (Top Categories by Sales & Profit)
+5. ما هو المنتج الأكثر مبيعاً من حيث القيمة المالية (Sales)، وما هو المنتج الأكثر طلباً من حيث عدد القطع (Quantity)؟
+6. من هم أفضل 5 عملاء إنفاقاً ومساهمة في إيرادات المتجر؟ (Top 5 Customers by Revenue)
+7. ما هو أسلوب / نوع الشحن الأكثر طلباً واستخداماً للبضائع؟ (Most Popular Ship Mode)
+8. ما هي المنطقة الجغرافية (Region) الأكثر مبيعاً للمنتجات؟ (Sales Distribution by Region)
+9. ما هي المنتجات أو الفئات التي تحقق أعلى هامش ربح للمتجر؟ (Profit Margin = Profit / Sales)
+10. ما هي شريحة العملاء (Customer Segment) الأكثر مساهمة في إجمالي المبيعات والأرباح؟
+11. ما هو تأثير الخصومات على الربحية؟ وهل زيادة نسبة الخصم (Discount) تزيد الأرباح أم تتسبب في خسائر؟ (Discount vs. Profit Analysis)
+12. ما هي الفئات أو المنتجات التي تحقق خسائر مالية صافية (Negative Profit) وتحتاج إلى إعادة هيكلة أو مراجعة للتسعير؟
+13. ما هو متوسط وقت الشحن والتسليم (Shipping Duration) المحسوب بين تاريخ الطلب (Order Date) وتاريخ الشحن (Ship Date) لكل فئة شحن؟
+
+=====================================================
+      Superstore Data Analysis - Business Questions
+=====================================================
+1. Which year and month generated the highest sales, and what is the overall sales trend over time?
+2. Which state generated the highest sales, and which state generated the highest profit?
+3. What is the top-selling city within the highest-performing state?
+4. Which Category and Sub-Category generate the highest sales and highest profit?
+5. What is the top-selling product by revenue (Sales), and what is the most demanded product by volume (Quantity)?
+6. Who are the top 5 customers contributing the most revenue to the store?
+7. What is the most popular and frequently used shipping mode (Ship Mode)?
+8. Which geographic region generates the highest sales?
+9. Which products or categories have the highest profit margins (Profit Margin = Profit / Sales)?
+10. Which customer segment (Consumer, Corporate, Home Office) contributes the most to total sales and profit?
+11. How do discounts impact profitability, and does offering higher discounts increase profits or lead to net losses?
+12. Which products or sub-categories generate net negative profit (losses) and require pricing/strategy reviews?
+13. What is the average shipping duration (Order Date to Ship Date) across different ship modes?
